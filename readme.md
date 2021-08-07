@@ -2,7 +2,6 @@
 
 ### What is a mediator
 **Mediator** is a behavioral design pattern that lets you reduce chaotic dependencies between objects. The pattern restricts direct communications between the objects and forces them to collaborate only via a mediator object.
-<img src="https://user-images.githubusercontent.com/67170413/128600102-91a9fb83-12a2-485c-be50-95e4c561b7ce.png" align="center" alt="mediator pattern UML diagram" width="600"/>
 
 ### How to use
 1. Add a reference to `Mediator.DependencyInjection`
